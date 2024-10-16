@@ -35,13 +35,13 @@ body{
     margin: 0px;
 }
 
-div#portfolio2{
+div#profile{
     padding: 20px;
     width: 450px;
     /**border: 2px blue solid;**/
     display:inline-block;
     margin-left: 300px;
-    margin-top: 800px;
+    margin-top: 80px;
 }
 
 div#bio{
